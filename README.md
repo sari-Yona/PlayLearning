@@ -49,4 +49,4 @@ Play Learning/
 
 ---
 
-Developed with ❤️ by the Play Learning Team.
+Developed with ❤️ by Sari Yona.
