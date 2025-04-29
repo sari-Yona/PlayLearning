@@ -37,7 +37,7 @@ Play Learning/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/play-learning.git
+   git clone https://github.com/sari-Yona/PlayLearning
    ```
 2. Open the `index.html` file in your browser.
 
